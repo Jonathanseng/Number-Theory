@@ -21,3 +21,12 @@ Here are some of the benefits of studying number theory:
 * **It provides a foundation for other areas of mathematics.** Number theory is a foundational subject in mathematics, and many other areas of mathematics build on the concepts and techniques of number theory. Studying number theory can give students a strong foundation for further study in mathematics.
 
 Overall, number theory is a fascinating and rewarding subject with many important applications. If you are interested in mathematics, I encourage you to learn more about number theory.
+
+Number theory in real life:
+Here are some specific examples of how number theory is used in real life:
+
+    RSA encryption: RSA encryption is a widely used method of encrypting data. It is based on the difficulty of factoring large numbers into their prime factors.
+    QR codes: QR codes are a type of barcode that can be scanned by smartphones. They are used to store information such as website addresses, contact information, and product codes. QR codes are based on number theory, specifically the use of quadratic residues.
+    Primality testing: Primality testing is the process of determining whether a number is prime. This is a problem that has applications in cryptography, coding theory, and other areas. There are a number of different algorithms for primality testing, some of which are based on number theory.
+
+As you can see, number theory has a wide range of applications in real life. It is a fascinating and important branch of mathematics that is still being studied and developed today.
