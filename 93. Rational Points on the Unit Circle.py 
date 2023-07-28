@@ -1,0 +1,13 @@
+import fractions
+
+def is_rational_point_on_unit_circle(x, y):
+  """Returns True if (x, y) is a rational point on the unit circle, False otherwise."""
+  if not isinstance(x, fractions.Fraction) or not isinstance(y, fractions.Fraction):
+    return False
+  return x.denominator == 1 and y.denominator == 1 and x * x + y * y == 1
+
+if __name__ == "__main__":
+  for x in range(-10, 10):
+    for y in range(-10, 10):
+      if is_rational_point_on_unit_circle(fractions.Fraction(x), fractions.Fraction(y)):
+        print(x, y)
